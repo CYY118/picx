@@ -3,6 +3,7 @@
 </a>
 
 # PicX
+PicX
 
 [![Author](https://img.shields.io/badge/author-XPoet-violet.svg)](https://github.com/XPoet)
 [![Release](https://img.shields.io/github/release/XPoet/picx.svg)](https://github.com/XPoet/picx/releases)
