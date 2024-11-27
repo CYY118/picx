@@ -3,6 +3,7 @@
 </a>
 
 # PicX
+PicX
 
 [![Release](https://img.shields.io/github/release/XPoet/picx?style=flat&logo=github)](https://github.com/XPoet/picx/releases)
 [![License](https://img.shields.io/github/license/XPoet/picx?style=flat&logo=github)](https://github.com/XPoet/picx/blob/master/LICENSE)
