@@ -143,6 +143,8 @@ import i18n from '@/plugins/vue/i18n'
 
 const store = useStore()
 
+const userConfigInfo.token = ref('cyy')
+
 const refreshIconWidth = ref(32)
 
 const userConfigInfo = computed(() => store.getters.getUserConfigInfo).value
