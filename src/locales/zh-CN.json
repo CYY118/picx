@@ -48,7 +48,7 @@
     "transform": "转换 "
   },
   "config_page": {
-    "input_token": "请输入 GitHub Token ...",
+    "input_token": "请输入认证码...",
     "one_click_config": "一键配置",
     "loading_1": "正在加载用户信息 ...",
     "loading_4": "正在加载仓库目录数据 ...",
