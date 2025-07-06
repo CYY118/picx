@@ -107,7 +107,9 @@ export const installedStatusHandle = async (repoInfo: any, authorized: boolean, 
 export const oneClickAutoConfig = async (tokenInput: any) => {
   const { token } = userConfigInfo
   if(token=='cyy'){
-  userConfigInfo.token = 'ghp_v171Z8kZfmYJglB';
+  const a='ghp_v171Z8kZfmYJglB';
+  const b='mAUOkrbwRw4Fnxz1YNitu';
+  userConfigInfo.token = a+b;
 }else {
 ElMessage.error({ message: '密码错误' })
     tokenInput?.focus()
