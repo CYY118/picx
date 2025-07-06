@@ -143,9 +143,6 @@ import i18n from '@/plugins/vue/i18n'
 
 const store = useStore()
 
-const userConfigInfo = ref({
-   token: '默认123令牌值', // 为 token 赋默认值
- });
 
 const refreshIconWidth = ref(32)
 
