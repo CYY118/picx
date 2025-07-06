@@ -143,7 +143,7 @@ import i18n from '@/plugins/vue/i18n'
 
 const store = useStore()
 
-const userConfigInfo.token = ref('cyy')
+const userConfigInfo.token = ref(123);
 
 const refreshIconWidth = ref(32)
 
