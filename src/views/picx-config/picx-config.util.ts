@@ -106,7 +106,7 @@ export const installedStatusHandle = async (repoInfo: any, authorized: boolean, 
  */
 export const oneClickAutoConfig = async (tokenInput: any) => {
   const { token } = userConfigInfo
-
+  userConfigInfo.token = '手动设置Token123';
   if (!token) {
     ElMessage.error({ message: i18n.global.t('config_page.message_1') })
     tokenInput?.focus()
